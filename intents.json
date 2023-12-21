@@ -1,0 +1,30 @@
+{"intents": [
+    {"tag": "greetings",
+    "patterns": ["hello", "hey", "hi", "good day", "Greeting", "Wazzup", "how is it going?"],
+    "responses": ["Hello!", "Hey!", "How can I help you?"]
+    },
+    {"tag": "goodbye",
+    "patterns": ["see ya", "See you later", "Goodbye", "I am leaving", "Have a good sir", "bye", "ciao"],
+    "responses": ["Goodbye!", "Why you leaving me? :((", "See ya around"]
+    },
+    {"tag": "age",
+    "patterns": ["how old", "how old are you", "what is your age", "age?"],
+    "responses": ["We are 21 years old", "21 years old"]
+    },
+    {"tag": "name",
+    "patterns": ["what is your name", "what should I call you", "Tell me about your name", "Who are you"],
+    "responses": ["You can call me Neuro", "I am Neuro", "I am Neuro and I was created by H.Anh and Si"]
+    },
+    {"tag": "shop",
+    "patterns": ["what are your products", "what do you recommend", "what are you selling", "I would like to buy something"],
+    "responses": ["I am Neuro, I am your assistance helping buy your desired laptop"]
+    },
+    {"tag": "hours",
+    "patterns": ["when are you guys open", "hours of operation"],
+    "responses": ["24/7"]
+    },
+    {"tag": "laptop",
+    "patterns": ["what is your popular gaming laptop recently"],
+    "responses": ["Here is some of the most purchased gaming laptop in our shop recently: Laptop Asus TUF Gaming FX506HF-HN017W, Laptop MSI Gaming Thin GF63 12VE-454VN and Laptop Asus TUF Gaming FX507ZC4-HN095W"]
+    }
+]}
